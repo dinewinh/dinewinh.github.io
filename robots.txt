@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://dinewinh.github.io/sitemap.html
+Sitemap: https://dinewinh.github.io/app/sitemap.html
+Sitemap: https://dinewinh.github.io/assets/sitemap.html
+Sitemap: https://dinewinh.github.io/includes/sitemap.html
+Sitemap: https://dinewinh.github.io/src/sitemap.html
